@@ -1,0 +1,14 @@
+.Galeria{
+    width: 1000px;
+    display: flex;
+    gap:10px;
+    flex-wrap: wrap;
+}
+.imagenGaleria{
+    width: 300px;
+}
+section{
+margin: 40px;
+display: flex;
+justify-content: center;
+}
